@@ -12,7 +12,7 @@ import {
   SpecialMenu,
 } from "./containers";
 import { Navbar } from "./components";
-import "./App.css";
+import "./app.css";
 
 const App = () => (
   <div>
